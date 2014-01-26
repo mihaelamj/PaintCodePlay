@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:PaintCodeProgressBar/PaintCodeProgressBar/PaintCodeProgressBar.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:paintCodeButton/PaintCodeButton/PaintCodeButton.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/PaintCode Part 2 Final/PaintCode/PaintCode.xcodeproj">
    </FileRef>
 </Workspace>

@@ -55,7 +55,7 @@
     NSLog(@"R:%d G:%d B:%d", sender.redPart, sender.greenPart, sender.bluePart);
 }
 
-#pragma mark - Properties
+#pragma mark - Properties - Views
 
 #define CONTROL_X_OFFSET 20
 #define CONTROL_Y_OFFSET 10

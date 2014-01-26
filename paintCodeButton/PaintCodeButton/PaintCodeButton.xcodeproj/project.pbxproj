@@ -116,7 +116,6 @@
 				A9E3352D189411A0001E30B9 /* Classes */,
 				A9E3350918941121001E30B9 /* MMJAppDelegate.h */,
 				A9E3350A18941121001E30B9 /* MMJAppDelegate.m */,
-				A9E3350C18941121001E30B9 /* Images.xcassets */,
 				A9E3350118941121001E30B9 /* Supporting Files */,
 			);
 			path = PaintCodeButton;
@@ -125,6 +124,7 @@
 		A9E3350118941121001E30B9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A9E3350C18941121001E30B9 /* Images.xcassets */,
 				A9E3350218941121001E30B9 /* PaintCodeButton-Info.plist */,
 				A9E3350318941121001E30B9 /* InfoPlist.strings */,
 				A9E3350618941121001E30B9 /* main.m */,
@@ -154,8 +154,8 @@
 		A9E3352C18941195001E30B9 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				A9E3352E189412C7001E30B9 /* PaintCodeViewController.h */,
-				A9E3352F189412C7001E30B9 /* PaintCodeViewController.m */,
+				A9E3352918941191001E30B9 /* PaintCodeButton.h */,
+				A9E3352A18941191001E30B9 /* PaintCodeButton.m */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -173,8 +173,8 @@
 		A9E33531189412F7001E30B9 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				A9E3352918941191001E30B9 /* PaintCodeButton.h */,
-				A9E3352A18941191001E30B9 /* PaintCodeButton.m */,
+				A9E3352E189412C7001E30B9 /* PaintCodeViewController.h */,
+				A9E3352F189412C7001E30B9 /* PaintCodeViewController.m */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -479,6 +479,7 @@
 				A9E3352518941121001E30B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A9E3352618941121001E30B9 /* Build configuration list for PBXNativeTarget "PaintCodeButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +488,7 @@
 				A9E3352818941121001E30B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

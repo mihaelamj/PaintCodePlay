@@ -53,7 +53,7 @@
 }
 
 //overrides of standard UIControl methods to re-draw butoon upon changing it's state
-#pragma mark - Overrides UIButton
+#pragma mark - Overrides UIControl
 
 - (void)setEnabled:(BOOL)enabled
 {
