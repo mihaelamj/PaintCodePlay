@@ -5,6 +5,8 @@
 //  Created by Mihaela Mihaljević Jakić on 26/01/14.
 //  Copyright (c) 2014 Token d.o.o. All rights reserved.
 //
+// Based on tutorial from:
+// http://www.raywenderlich.com/35720/paintcode-tutorial-custom-progress-bar
 
 #import "PaintCodeProgressView.h"
 
